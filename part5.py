@@ -13,3 +13,7 @@ Hello, Ash Ketchum
 '''
 
 #start writing your code below
+first_word = (input("What is your first name? "))
+second_word = (input("What is your last name? "))
+third_word = (" ")
+print("Hello", first_word + third_word + second_word)
